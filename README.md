@@ -127,7 +127,7 @@ still be compilable with cmake and make./
 
 ## Report
 
-#CarND - MPC - Project#
+# CarND-MPC-Project #
 ---
 
 
